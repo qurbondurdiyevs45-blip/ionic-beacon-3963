@@ -1,0 +1,15 @@
+{
+  "name": "ionic-beacon-3963",
+  "version": "0.1.0",
+  "generator": "PushForge Engine",
+  "capabilities": [
+    "ideate",
+    "compose",
+    "commit"
+  ],
+  "manifest": {
+    "entry": "src/index.ts",
+    "seed": 7812,
+    "createdAt": "2026-09-12T12:39:09.659Z"
+  }
+}
